@@ -198,15 +198,11 @@ Audit History page / Export CSV
 
 
 | Page | Description |
-|---|---|
-| `<img width="1362" height="649" alt="{39ACC159-48A5-40BB-9234-B27BA0AFA47C}" src="https://github.com/user-attachments/assets/c1c1ece8-3f09-4ae3-819c-fa769319b9f5" />
-` | Login page |
-| `<img width="1350" height="627" alt="image" src="https://github.com/user-attachments/assets/7d13f24c-c0e4-401d-aeea-5a79c0c005cf" />
-` | KYC submission form |
-| `<img width="848" height="507" alt="image" src="https://github.com/user-attachments/assets/ca3c4ff1-271d-42d3-9e09-643d37c3e35b" />
-` | Officer dashboard with stats |
-| `<img width="856" height="396" alt="image" src="https://github.com/user-attachments/assets/4d246c25-afff-4fd7-a636-d3fac5467e9f" />
-` | Audit logs table |
+|--------|-------------|
+| <img src="images/login.jpeg" width="700"/> | Login page |
+| <img src="images/kyc_form.jpeg" width="700"/> | KYC submission form |
+| <img src="images/dashboard.jpeg" width="700"/> | Officer dashboard with stats |
+| <img src="images/audit.jpeg" width="700"/> | Audit logs table |
 
 ---
 
